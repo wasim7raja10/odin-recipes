@@ -1,0 +1,20 @@
+body {
+  margin: auto 10%;
+}
+
+h1, h2 {
+  color: brown;
+}
+.recipe-list a {
+  color: black;
+  font-size: larger;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+}
+
+li strong {
+  font-size: 1.2rem;
+}
